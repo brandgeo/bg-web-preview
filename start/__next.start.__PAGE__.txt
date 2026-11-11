@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/bg-web-preview/_next/static/chunks/2ccb0ebwlu9wl.js"
+3:I[54438,["$2"],"default"]
+4:I[47761,["$2"],"default"]
+5:I[5279,["$2"],"DemoMode"]
+c:"/bg-web-preview/_next/static/chunks/0jny23t61vhp8.js"
+d:"/bg-web-preview/_next/static/chunks/1mgjulkuk039n.js"
+e:I[42999,["$2","$c","$d"],""]
+f:I[71001,["$2","$c","$d"],"IntakeWizard"]
+10:I[42185,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[42185,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[42185,["$2"],"$16"]
+:HL["/bg-web-preview/_next/static/chunks/1_68i6gjacjt7.css","style"]
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-bb-ground leading-[1.5]","children":[["$","header",null,{"className":"border-b border-bb-border bg-bb-surface","children":["$","div",null,{"className":"mx-auto flex max-w-site flex-wrap items-center justify-between gap-x-6 gap-y-1.5 px-8 py-3.5","children":[["$","$Le",null,{"className":"inline-flex min-h-11 items-center gap-2.5 text-bb-ink no-underline","href":"/","children":[["$","span",null,{"aria-hidden":"true","className":"inline-flex size-9 items-center justify-center rounded-[8px] bg-bb-green text-[13px] font-extrabold text-bb-ground ","children":"BB"}],["$","span",null,{"className":"text-[16px] font-bold tracking-[-0.01em]","children":"The Brand Builder"}]]}],["$","p",null,{"className":"m-0 text-[13px] text-bb-muted","children":"Self-service audit request"}]]}]}],["$","main",null,{"className":"mx-auto flex w-full max-w-form flex-1 flex-col gap-7 px-6 pt-12 pb-18","children":["$","$Lf",null,{}]}]]}],[["$","script","script-0",{"src":"/bg-web-preview/_next/static/chunks/0jny23t61vhp8.js","async":true}],["$","script","script-1",{"src":"/bg-web-preview/_next/static/chunks/1mgjulkuk039n.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$7"}}]]
+8:[["children",{"s":"start","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bg-web-preview/_next/static/chunks/1_68i6gjacjt7.css","precedence":"next"}],["$","script","script-0",{"src":"/bg-web-preview/_next/static/chunks/2ccb0ebwlu9wl.js","async":true}]],["$","html",null,{"lang":"en","className":"gQ8Q-G_variable","children":["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L5",null,{}]]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"The Brand Builder | AEO & GEO Audit"}],["$","meta","1",{"name":"description","content":"Understand how your brand appears across traditional search and AI answer experiences with a self-service visibility audit."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$7"}},"a":"$@19","u":"$@1a","b":"va3oJFuMD3MO5tkpEWXx9"}
+12:null
+7:300
+1a:true
+7:C
+19:0
+9:"$undefined"
+6:"$undefined"
+18:"$undefined"
+13:"$undefined"
